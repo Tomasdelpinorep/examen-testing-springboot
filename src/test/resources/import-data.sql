@@ -1,0 +1,1 @@
+insert into dato_meteorologico(fecha, precipitacion, ciudad) values('2024-2-9', 10, 'Sevilla');
